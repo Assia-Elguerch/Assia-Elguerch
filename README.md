@@ -14,9 +14,6 @@ Skills:  Front End Web dev .   AI  . Cyber Security .  Robotics  .  Problem Solv
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='30'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='30' height='30'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Assia-Elguerch)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Assia-Elguerch&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Assia-Elguerch)  
 
