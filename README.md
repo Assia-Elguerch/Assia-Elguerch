@@ -1,3 +1,6 @@
+
+
+
 ### Hi there 👋, my name is Assia Elguerch
 #### I am Computer Science Student and young professional.
 ![I am Computer Science Student and young professional.](https://retool.com/blog/content/images/2022/02/gotchas-git-github-banner-1.png)
@@ -17,4 +20,3 @@ Skills: Web Development (Front End), AI, CS, Robotics
 ![GitHub metrics](https://metrics.lecoq.io/Assia-Elguerch)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Assia-Elguerch)  
-
