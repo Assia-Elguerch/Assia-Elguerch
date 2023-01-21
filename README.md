@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Assia Elguerch
 #### I am Computer Science Student and young professional.
-![I am Computer Science Student and young professional.](https://www.canva.com/design/DAFYTFtxJqg/z6cmCTbcDeRyfhLm6SLZAA/view?utm_content=DAFYTFtxJqg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![I am Computer Science Student and young professional.](https://retool.com/blog/content/images/2022/02/gotchas-git-github-banner-1.png)
 
 I am passionate about computer science, especially artificial intelligence and quantum computing. A variety of activities and competitions were part of my life. I am interested in working on projects, being an entrepreneur, and making a lasting impact on the next generation.
 
