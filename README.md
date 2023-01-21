@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Assia Elguerch
 #### I am a computer science student and young professional
-![I am a computer science student and young professional](https://f4n3x6c5.stackpathcdn.com/article/create-github-repository-and-add-newexisting-project-using-github-desktop/Images/github.png)
+![I am a computer science student and young professional](https://github.com/Assia-Elguerch/Assia-Elguerch/blob/main/Black%20Minimalist%20Corporate%20Business%20Personal%20Profile%20LinkedIn%20Banner.png)
 
 I am passionate about computer science, especially artificial intelligence and quantum computing. A variety of activities and competitions were part of my life. I am interested in working on projects, being an entrepreneur, and making a lasting impact on the next generation.
 
