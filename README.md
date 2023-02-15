@@ -4,7 +4,7 @@
 
 I am passionate about computer science. A variety of activities and competitions were part of my life. I am interested in working on projects, being an entrepreneur, and making a lasting impact on the next generation.
 
-Skills:  Front End Web dev .   AI  . CS .  Robotics  .  Problem Solving
+Skills:  Front End Web dev .   AI  . CS  .  Problem Solving
 
 - 📫 How to reach me: assia.elguerch@outlook.com 
 - ⚡ Fun fact: I am a metalhead 
