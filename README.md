@@ -2,7 +2,7 @@
 #### I am a Digital infrastructure Student
 
 
-Talking About : Cryptography, Networking, Cyber Security, Cloud Computing
+Talking About : Cryptography, Computer Networking, Cyber Security, Scripting
 
 
  
