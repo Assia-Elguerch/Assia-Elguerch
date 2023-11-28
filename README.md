@@ -5,7 +5,6 @@
 Talking About : Cryptography, Networking, Cyber Security, Cloud Computing
 
 
-
-![GitHub metrics](https://metrics.lecoq.io/Assia-Elguerch)  
+ 
 
 
