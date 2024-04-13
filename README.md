@@ -16,7 +16,7 @@ I'm a Digital Infrastructure Student passionate about exploring the realms of te
 🔗 ![LinkedIn](https://www.linkedin.com/in/assia-elguerch/)
 
 
-![image](![image](<img src="https://tryhackme-badges.s3.amazonaws.com/assiaelguerch08.png" alt="TryHackMe">)
+![image](![image](<img src="https://tryhackme-badges.s3.amazonaws.com/assiaelguerch08.png" alt="TryHackMe">))
 
 
  
