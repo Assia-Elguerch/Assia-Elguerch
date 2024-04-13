@@ -13,10 +13,10 @@ I'm a Digital Infrastructure Student passionate about exploring the realms of te
 
 ### Let's Connect!
 
-🔗 ![LinkedIn](https://www.linkedin.com/in/assia-elguerch/
+🔗 ![LinkedIn](https://www.linkedin.com/in/assia-elguerch/)
 
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/1839079.png
+![image](![image](<img src="https://tryhackme-badges.s3.amazonaws.com/assiaelguerch08.png" alt="TryHackMe">)
 
 
  
