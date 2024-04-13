@@ -1,8 +1,22 @@
-### Hi there 👋, My name is Assia Elguerch
-#### I am a Digital infrastructure Student
+# Hi there 👋, I'm Assia Elguerch!
+
+> Welcome to my GitHub playground! I'm all about digging into the digital world and uncovering its secrets.
+
+### About Me
+
+I'm a Digital Infrastructure Student passionate about exploring the realms of technology, with a keen interest in:
+
+- Cryptography 🔐
+- Computer Networking 🌐
+- Cyber Security 🛡️
+- Scripting 💻
+
+### Let's Connect!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/assia-elguerch/)
 
 
-Talking About : Cryptography, Computer Networking, Cyber Security, Scripting
+<script src="https://tryhackme.com/badge/1839079"></script>
 
 
  
