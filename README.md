@@ -4,6 +4,11 @@
 
 ### About Me
 
+
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/assiaelguerch08.png")
+
+
 I'm a Digital Infrastructure Student passionate about exploring the realms of technology, with a keen interest in:
 
 - Cryptography 🔐
@@ -16,7 +21,7 @@ I'm a Digital Infrastructure Student passionate about exploring the realms of te
 🔗 [LinkedIn](https://www.linkedin.com/in/assia-elguerch/)
 
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/assiaelguerch08.png)
+
 
 
 
