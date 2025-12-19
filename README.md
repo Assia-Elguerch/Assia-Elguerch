@@ -15,9 +15,6 @@ I'm a Digital Infrastructure Student passionate about exploring the realms of te
 - Cyber Security 🛡️
 - Scripting 💻
 
-### Let's Connect!
-
-🔗 [LinkedIn](https://www.linkedin.com/in/assia-elguerch/)
 
 
 
